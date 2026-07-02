@@ -1,0 +1,16 @@
+[
+    {
+"firstName":"Alirce",
+"lastName":"chandra",
+"telephone":"1242356768",
+"password":"Password@321",
+"subscribeNewsletter":"Yes"
+},
+{
+"firstName":"Chandra",
+"lastName":"Vasam",
+"telephone":"1242316368",
+"password":"Password@341",
+"subscribeNewsletter":"No"
+}
+]
