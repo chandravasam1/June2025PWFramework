@@ -8,6 +8,7 @@
     "target": "ESNext",
     //"module": "NodeNext",
     "module": "es2015",
+    
    // "moduleResolution": "NodeNext",
     "strict": true,
     "esModuleInterop": true,
